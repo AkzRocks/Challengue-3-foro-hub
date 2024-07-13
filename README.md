@@ -1,4 +1,4 @@
-//🌟 ForoHub WRH3 🌟
+#🌟 ForoHub WRH3 🌟
 ¡Bienvenido a ForoHub WRH3! Este programa es un API que te permite Realizar diferentes solicitudes REST:
 
 Iniciar Sesion
@@ -7,17 +7,17 @@ Actualizar un Topico
 Eliminar un topico
 Listar topicos
 
-// Autorización
+#Autorización
 La API requiere autorización mediante tokens JWT para acceder a ciertas funciones.
 
-✅ Tecnologías Utilizadas
+#✅ Tecnologías Utilizadas
 Java 🔧
 Maven 🔧
 Spring Boot 🔧
 Spring Data JPA 🔧
 MySQL 🔧
 JWT (JSON Web Tokens) 🔧
-🌟 Endpoints
+#🌟 Endpoints
 Tópicos (topico-controller)
 Actualizar un tópico
 
