@@ -12,10 +12,15 @@ La API requiere autorización mediante tokens JWT para acceder a ciertas funcion
 
 # Tecnologías Utilizadas
 Java 🔧
+
 Maven 🔧
+
 Spring Boot 🔧
+
 Spring Data JPA 🔧
+
 MySQL 🔧
+
 JWT (JSON Web Tokens) 🔧
 
 #  Endpoints
