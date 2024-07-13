@@ -17,7 +17,8 @@ Spring Boot 🔧
 Spring Data JPA 🔧
 MySQL 🔧
 JWT (JSON Web Tokens) 🔧
-#🌟 Endpoints
+
+#  Endpoints
 Tópicos (topico-controller)
 Actualizar un tópico
 
